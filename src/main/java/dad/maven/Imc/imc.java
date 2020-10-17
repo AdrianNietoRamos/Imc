@@ -87,10 +87,7 @@ e.printStackTrace();
 }
 }
 
-protected static void setText(String string) {
-	
-	
-}
+
 
 public static void main(String[] args) {
 launch(args);
